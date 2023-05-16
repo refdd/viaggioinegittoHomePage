@@ -1,30 +1,30 @@
-main{
-    background-color: #fff;
+main {
+  background-color: #fff;
 }
 .img_container {
-    border-radius: 15px 15px 0 0 ;
+  border-radius: 15px 15px 0 0;
 }
-.tour_container{
-    border-radius: 15px;
+.tour_container {
+  border-radius: 15px;
 }
-.days{
-    padding: 7px 16px;
-    background-color:#F06B53 ;
-    border-radius: 10px;
+.days {
+  padding: 7px 16px;
+  background-color: #f06b53;
+  border-radius: 10px;
 }
-.days span{
-    font-size: 15px;
-    font-weight: 500;
+.days span {
+  font-size: 15px;
+  font-weight: 500;
 }
-.splide__arrow--next{
-    right: -1em;  
+.splide__arrow--next {
+  right: -1em;
 }
 .splide__arrow--prev {
-    left: -1em;
+  left: -1em;
 }
 .tour_container .tour_title {
-    padding: 15px 15px 0px 15px ;
+  padding: 15px 15px 0px 15px;
 }
 footer {
-    background-color: #003366;
+  background-color: #003366;
 }
